@@ -1,0 +1,129 @@
+<body>
+  <div id="header-placeholder"></div>
+
+  <div class="container my-5">
+    <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div class="index-top-intro">
+        <h1>Transparency in Progress</h1>
+        <br />
+      </div>
+      <!--  -->
+      <div class="internal-para">
+        <p>NoGhostHiring is dedicated to fairness, accountability, and accuracy. This page gives companies a way to submit clarifications, corrections, or context about their hiring practices. By providing a transparent channel, we make sure our platform shares information responsibly, maintains trust for both candidates and companies, and protects sensitive data at every step.</p>
+        <h3>Who Can Submit</h3>
+        <p>Only companies and recruiters can submit requests for clarification or context about reports published on NoGhostHiring. Candidates or other external parties cannot use this page to submit requests.</p>
+        <a href="http://" target="_blank">Transparency Submission Form ↗</a>
+        <br /><br />
+        <p>Submissions may include:</p>
+        <ul> <li>Correcting any factual errors in reports to make sure the information is accurate and fair</li> <li>Providing additional context about a company’s hiring practices so candidates understand the full picture</li> <li>Sharing public clarifications on processes that may have caused confusion or misunderstanding, giving both candidates and companies transparency</li> </ul>
+        <p>All submissions undergo moderation and verification to ensure fairness.</p>
+        <h3>Verification Process</h3>
+        <p><p>Every submission is carefully reviewed by the NoGhostHiring moderation team before it appears publicly. This verification process makes sure that:</p></p>
+        <ol> <li>Authenticity: Every submission must reflect a real company and a genuine experience from a candidate.</li> <li>Data Safety: No information that could identify a candidate is ever shared, displayed, or exposed publicly.</li> <li>Neutrality: Company clarifications are presented clearly and objectively, without editorial interpretation or bias.</li> </ol>
+        <p>Once a submission is verified, its status is updated, and a neutral summary may be published for public viewing. Submissions that are unverified or rejected remain private, though they are recorded internally for review and quality control.</p>
+        <h3>Public Transparency Table</h3>
+        <div class="table-responsive">
+          <table class="table table-striped table-hover">
+            <thead class="table-light">
+              <tr>
+                <th scope="col">Company Name</th>
+                <th scope="col">Submission Date</th>
+                <th scope="col">Status</th>
+                <th scope="col">Link</th>
+              </tr>
+            </thead>
+            <tbody id="public-transparency-table"></tbody>
+          </table>
+        </div>
+          <h3>FAQs</h3>
+          <div class="accordion accordion-flush" id="accordionFlushExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                Can candidates submit clarifications?
+              </button>
+            </h2>
+            <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">No, only companies can submit. Candidate data remains anonymous and protected.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                How long does verification take?
+              </button>
+            </h2>
+            <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Each submission undergoes moderation and human review. Processing may take up to a day, depending on the volume of submissions.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                Can submissions be edited or deleted?
+              </button>
+            </h2>
+            <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Companies may request changes through the same submission form. Each request will be reviewed for authenticity and fairness.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                Is the data visible outside NoGhostHiring?
+              </button>
+            </h2>
+            <div id="flush-collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Only neutral public summaries of verified submissions are displayed. Raw submissions, internal notes, or sensitive data are never published.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse5" aria-expanded="false" aria-controls="flush-collapse5">
+                What if a submission contains sensitive information?
+              </button>
+            </h2>
+            <div id="flush-collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Our moderators redact or summarize sensitive content to ensure privacy and compliance.</div>
+            </div>
+          </div>
+
+
+
+        </div>
+
+      </div>
+
+    </div>
+    <div class="col-md-3"></div>
+
+    </div>
+
+    
+  </div>
+
+  <div id="footer-placeholder"></div>
+
+  <script>
+    async function loadPartials() {
+      const header = await fetch("/partials/header.html");
+      document.getElementById("header-placeholder").innerHTML = await header.text();
+
+      const footer = await fetch("/partials/footer.html");
+      document.getElementById("footer-placeholder").innerHTML = await footer.text();
+    }
+    loadPartials();
+  </script>
+
+  <!--  -->
+<script src="../assets/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/js/popper.min.js"></script>
+  <script src="../assets/js/bootstrap.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script src="/assets/js/search.js"></script>
+
+
+</body>

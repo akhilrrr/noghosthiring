@@ -1,0 +1,44 @@
+<body>
+  <div id="header-placeholder"></div>
+
+  <div class="container my-5">
+    <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div class="index-top-intro">
+        <h1>Disclaimer</h1> <br />
+      </div>
+      <!--  -->
+      <div class="internal-para">
+        <p>NoGhostHiring is based on real candidate-reported experiences from the hiring process. These reports are collected through NocoDB, which provides a straightforward way for participants to share their stories. Once submitted, the data is processed through a proprietary algorithm designed to identify patterns fairly and consistently. The algorithm does not run on a public-facing server. Instead, it operates remotely on a secure cloud device, then passes through GitHub infrastructure and is published as a static page on GitHub Pages. This setup is intentional. It keeps the system efficient, reduces infrastructure costs, and ensures the platform remains accessible without relying on heavy hosting or high bandwidth.</p>
+        <h3>Data Availability and Format</h3>
+        <p>To keep information simple, transparent, and easy to access, we currently publish processed data in JSON format. This structured approach makes sure candidates, companies, and the wider community can view NoGhostHiring results in a consistent way. While JSON may seem technical at first, its use reflects our commitment to openness, making it clear that nothing is hidden or locked away behind closed systems.</p>
+        <h3>Moderation Process</h3>
+        <p>Moderation is central to keeping NoGhostHiring trustworthy and accurate. Right now, moderation is a mix of automation and human review. Automated systems act as the first filter, scanning every submission against clear criteria to remove spam, off-topic entries, or reports that don’t meet the basic standards. This provides speed and consistency. After that, a human moderator reviews the reports more closely. They make sure submissions follow the guidelines, protect candidate anonymity, and confirm that each experience is relevant to hiring. Most reviews are completed within two to four hours, striking a balance between timely publishing and thoughtful oversight.</p>
+        <h3>Limitations</h3>
+        <p>It’s important to be clear about the current limitations of the system. The algorithm is still evolving and is maintained by a single person, so improvements and refinements take time. Our moderation capacity is limited, and while automation helps cover a lot of ground, some decisions still need human judgment. The system does not claim to be perfectly accurate, and it cannot reflect every possible outcome of a company’s hiring process. NoGhostHiring represents aggregated reports, not absolute truths.</p>
+        <h3>Nature of the Platform</h3>
+        <p>NoGhostHiring is not a platform for defaming or shaming companies. It is a tool for transparency, designed to highlight patterns of ghosting and share real candidate experiences so that companies, recruiters, and job seekers can have a clearer dialogue. Companies are fully included in this process. They have a straightforward way to provide clarifications, request reviews, and share their perspective, which is then displayed alongside candidate reports.</p>
+        <h3>Liability</h3>
+        <p>The information shown in NoGhostHiring comes directly from candidate submissions and is handled in good faith. While we take care to filter, moderate, and maintain accuracy, the platform cannot guarantee the truth of each individual submission. NoGhostHiring is designed to aggregate and display experiences, not to provide a legal or factual judgment on any company.</p>
+        <h3>Ongoing Development</h3>
+        <p>This project is a work in progress. As the infrastructure grows, moderation improves, and the algorithms evolve, the system will get better over time. For now, NoGhostHiring is a lean and independent feature, designed to balance transparency, accessibility, and fairness while making the most of limited resources.</p>
+        <h3>Third-Party Dependencies</h3>
+        <p>Our service is built on open-source frameworks and runs on external platforms, including NocoDB, GitHub, and analytics providers. While we take care to configure everything properly, we cannot control third-party infrastructure, outages, or security incidents. By using this site, you acknowledge that relying on these providers is part of how the system works and agree to use the service with that understanding.</p>
+        <div class="border-top pt-3 pb-3 send-review-block">
+          <p>Help make NoGhostHiring more accurate for future candidates.</p>
+          <a href="https://app.nocodb.com/#/nc/form/aeeada42-f15a-44af-9fea-279bc1501401" target="_blank" class="share-footer-dark">Share Your Experience</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3"></div>
+    </div>
+  </div>
+  <div id="footer-placeholder"></div>
+
+  <script>
+    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="/assets/js/search.js"></script>
+</body>

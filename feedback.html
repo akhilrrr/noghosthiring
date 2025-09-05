@@ -1,0 +1,26 @@
+<body>
+  <div id="header-placeholder"></div>
+
+  <div class="container my-5">
+    <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div class="index-top-intro">
+        <h1>Share Feedback</h1><br />
+      </div>
+      <div class="internal-para">
+        <p>We’d love to hear from you. Just write us at <a href="mailto:hello@noghosthiring.com">hello@noghosthiring.com</a></p>
+        <p>Connect on <a href="https://www.linkedin.com/company/noghosthiring/">LinkedIn</a></p>
+        <p>Join our <a href="https://discord.gg/ccXjBXCT">Discord Community</a></p>
+      </div>
+    </div>
+    <div class="col-md-3"></div>
+    </div>
+  </div>
+  <div id="footer-placeholder"></div>
+  <script>
+    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="/assets/js/search.js"></script>
+</body>

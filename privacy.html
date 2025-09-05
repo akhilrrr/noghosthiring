@@ -1,0 +1,41 @@
+<body>
+  <div id="header-placeholder"></div>
+
+  <div class="container my-5">
+    <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div class="index-top-intro">
+        <h1>Privacy & Third Parties</h1> <br />
+      </div>
+      <div class="internal-para">
+        <p>NoGhostHiring is built on trust. While we ask candidates to provide an email address and recommend using their real name when submitting a report, the platform is designed to protect anonymity at every step. As soon as a report is submitted, candidates are assigned a prefixed anonymous identity. This allows communication when needed without ever exposing personal details.</p> <p>That means no personal names, emails, or identifying information appear in any public dataset. The data shared openly includes only company names, which are provided by candidates themselves. The system is carefully designed so that every individual remains unseen while their experience is still heard and counted.</p>
+        <h3>Anonymity by Design</h3>
+        <p>The algorithm behind NoGhostHiring is designed with anonymity in mind. Reports are anonymized as soon as they are submitted and processed in a way that prevents any personal identifiers from appearing in public data. Recruiter names, when included, are also carefully protected. Only the first four or five characters are shown, giving candidates enough context to spot repeated patterns without exposing anyone directly. During moderation, automated checks and manual review work together to make sure no personal or sensitive information is ever visible to the public.</p>
+        <h3>How We Handle Recruiter Reviews</h3>
+        <p>When companies or recruiters request a review or provide clarifications, their submissions are handled with the same level of privacy as candidate reports. Candidate information is never shared with companies. This separation is intentional: it keeps candidates protected while still giving companies the chance to engage in dialogue, correct misunderstandings, and demonstrate transparency. The principle is simple: no matter the situation, candidate information stays private and secure.</p>
+        <h3>Candidate Control & Erasure</h3>
+        <p>Candidates are anonymous by default, and once a submission is anonymized it cannot be traced back to them. If a candidate wants their report fully removed, they can request this through the closure and erasure page. When a request is processed, any personally submitted data will be removed from public view, giving candidates control over their information while keeping the system reliable and fair.</p> <p>Because NoGhostHiring anonymizes submissions from the start, once personal identifiers are removed there is no way to reconnect a report to an individual. This means anonymized aggregate data cannot be deleted. What can be removed on request is the publicly visible text, which ensures a balance between a candidate’s right to erase their information and the continued functionality of the system.</p>
+        <h3>Use of Third-Party Tools</h3>
+        <p>Like most modern web platforms, NoGhostHiring relies on third-party tools to maintain and improve the user experience. Right now, we use Google Analytics and Microsoft Clarity. Both have their own privacy policies and safeguards. These tools help us understand how the platform is used, identify any issues, and make the site easier to use, but they do not collect personally sensitive data from candidates or recruiters.</p> <p>In addition to these analytics tools, NoGhostHiring also uses frameworks like Bootstrap and similar libraries to support design and functionality. These frameworks help the site run smoothly but do not access or collect any user data.</p>
+        <h3>Advertising and Future Sustainability</h3>
+        <p>NoGhostHiring is, at its heart, an independent project. To keep it sustainable, we may introduce revenue through display ads in the future. If that happens, we will use only non-intrusive networks like Google AdSense, and no personal data will ever be collected or sold for advertising. The goal is simple: to cover infrastructure costs, support the growth of the database, and expand the community, all while protecting the privacy of the people who rely on this platform.</p>
+        <h3>Commitment to Transparency</h3>
+        <p>We want to be clear: NoGhostHiring does not sell, trade, or share user data with recruiters, employers, or any third party for profit. Every report is anonymized, moderation is designed to protect sensitive details, and all engagement happens on equal terms. Privacy is not an afterthought — it is a core principle of NoGhostHiring. True transparency only works when both candidates and companies can trust that the process is safe and fair.</p>
+        <div class="border-top pt-3 pb-3 send-review-block">
+          <p>Help make NoGhostHiring more accurate for future candidates.</p>
+          <a href="https://app.nocodb.com/#/nc/form/aeeada42-f15a-44af-9fea-279bc1501401" target="_blank" class="share-footer-dark">Share Your Experience</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3"></div>
+    </div> 
+  </div>
+  <div id="footer-placeholder"></div>
+
+ <script>
+    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+</script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script src="/assets/js/search.js"></script>
+</body>

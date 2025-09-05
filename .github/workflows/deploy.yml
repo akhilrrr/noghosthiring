@@ -1,0 +1,27 @@
+name: Deploy HTML
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      GA_MEASUREMENT_ID: ${{ secrets.GA_MEASUREMENT_ID }}
+      CLARITY_PROJECT_ID: ${{ secrets.CLARITY_PROJECT_ID }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Inject secrets into HTML
+        run: |
+          find . -name "*.html" -type f -exec \
+          sed -i "s/{{GA_MEASUREMENT_ID}}/$GA_MEASUREMENT_ID/g; s/{{CLARITY_PROJECT_ID}}/$CLARITY_PROJECT_ID/g" {} +
+
+      - name: Deploy
+        run: |
+          echo "👉 Add your deploy steps here (e.g., rsync, ftp, gh-pages, Netlify CLI, etc.)"

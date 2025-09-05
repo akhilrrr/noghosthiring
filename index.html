@@ -1,0 +1,36 @@
+
+  <div id="header-placeholder"></div>
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <div class="index-top-intro border-bottom">
+          <h1>Ghosting</h1> <p>/ˈɡəʊstɪŋ/</p> <p>noun</p>
+          <ol>
+            <li> <p> the sudden act of ending communication without notice or explanation. <br /><em>(“The recruiter stopped replying, a classic case of ghosting..”)</em> </p> </li>
+            <li> <p> in hiring: when a company requests applications, interviews, or tasks; then vanishes without response, leaving candidates in uncertainty and wasted effort. </p> </li>
+          </ol>
+        </div>
+        <div class="index-top-ghost border-bottom">
+          <h3>Top Ghosters</h3>
+          <p>These are the companies with the highest Ghost Score since the last update, ranked by reported ghosting severity and frequency.</p>
+          <div class="table-responsive"> <table class="table table-striped table-hover"> <thead class="table-light"> <tr> <th scope="col">Rank</th> <th scope="col">Company</th> <th scope="col"> Ghost Score </th> <th scope="col"> Severity </th> </tr> </thead> <tbody id="top-ghosting-table"></tbody> </table> </div>
+        </div>
+        <div class="index-top-about">
+          <h3>Making hiring transparent</h3> <p>We take real candidate experiences and turn them into a single Ghost Score that reflects how companies treat applicants. All reports are anonymous, processed through a fair algorithm, and weighted to highlight consistent patterns rather than one-off cases. The result is a score you can trust, clear and easy to compare across companies, and designed to make hiring more transparent for everyone.</p>
+        </div>
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+  </div>
+  <div id="footer-placeholder"></div>
+
+  <script>
+    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+  </script>
+  <script>
+    async function loadTopGhosting() { try { const response = await fetch('/data/companies.json'); const companies = await response.json(); const topCompanies = companies .sort((a, b) => b.ghost_score - a.ghost_score) .slice(0, 10); const tableBody = document.getElementById('top-ghosting-table');  getBandBadge = (band) => { switch (band) { case "Low": return '<span class="badge badge-low">Low</span>'; case "Medium": return '<span class="badge badge-medium">Medium</span>'; case "High": return '<span class="badge badge-high">High</span>'; default: return '<span class="badge bg-secondary">Unknown</span>'; } };
+    topCompanies.forEach((company, index) => { const tr = document.createElement('tr'); tr.innerHTML = ` <th scope="row">${index + 1}</th> <td> <a href="/companies/${company.slug}.html" class="fw-bold text-decoration-none"> ${company.company} </a> </td> <td>${company.ghost_score}</td> <td>${getBandBadge(company.severity_band)}</td> `; tableBody.appendChild(tr); }); } catch (error) { console.error("Error loading companies.json:", error); } } loadTopGhosting();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="/assets/js/search.js"></script>

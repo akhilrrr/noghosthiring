@@ -1,0 +1,31 @@
+<body>
+  <div id="header-placeholder"></div>
+
+  <div class="container my-5">
+    <div class="row">
+
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div class="index-top-intro">
+        <h1>Do Not Sell</h1> <br />
+      </div>
+      <div class="internal-para">
+        <p>NoGhostHiring exists to protect candidates and create transparency in hiring. This mission only works if trust is absolute. From the start, we want to be clear: we do not sell your data, now or ever. The information you share is not a product. It is a voice. Our role is to safeguard it, anonymize it, and use it only to provide fair and meaningful insights into hiring practices.</p> <h3>Candidate Stories Are Safe</h3> <p>When you submit a report, your identity is never revealed. Your email and name are stored only for verification and communication, and they never appear in public datasets. Each candidate is automatically assigned an anonymized profile with a unique alias, so even in private moderation workflows, your personal identity remains protected.</p> <p>The system is specifically designed so that no report can be traced back to an individual. Recruiter names, when included, are masked to show only the first four characters. This allows candidates to recognize patterns without compromising privacy.</p> <h3>Aggregate-Only Public Data</h3> <p>The only data made public is in structured JSON format and contains aggregate insights only. This includes things like average Ghost Score, ghosting stages, assignment durations, or feedback percentages. There is no personal data, no emails, no identifiers, and no direct quotes that could identify a candidate.</p> <p>The JSON is intentionally structured to serve two purposes: transparency and accessibility. Researchers, developers, and even candidates themselves can explore systemic patterns without revealing the people behind the reports.</p> <h3>Third Parties and Ads</h3> <p>We do not sell or share user data with recruiters, employers, or any external entity. Recruiters who request a review of their company can see clarifications about their process but never the identities of candidates or who submitted reports.</p> <p>The only third-party tools we currently use are Google Analytics and Microsoft Clarity. Both are standard for understanding website performance. These tools may use cookies, but they do not receive any candidate-level information from us, nor do they allow us to sell or trade user data.</p> <p>In the future, NoGhostHiring may use display advertising, for example through Google AdSense, to support infrastructure, moderation, and hosting costs. If ads are introduced, they will be non-invasive, brand-safe, and fully privacy-respecting. Ads will never rely on personal candidate data or be linked to submitted reports.</p> <h3>Transparency Over Exploitation</h3> <p>Some platforms turn data into a product. NoGhostHiring is built to do the opposite. We strip away personal identifiers and keep only the systemic insights. Selling data would betray candidate trust and undermine our mission. Instead, we focus on a model where data is always anonymized, and public datasets remain clean, fair, and useful without exploitation.</p> <h3>Future Revenue Models</h3> <p>NoGhostHiring does not sell candidate data or let companies influence reported outcomes. There are no sponsored content arrangements or partnerships at this time. If any revenue models are introduced in the future, they will be clearly disclosed and will never affect NoGhostHiring data, reviews, or visibility. Any revenue will focus solely on sustaining infrastructure and supporting community growth.</p> <h3>What We Do With Data</h3> <ul> <li>Reports are anonymized upon submission.</li> <li>Internal moderation uses both automated and manual review, but moderators see only anonymized candidate identifiers.</li> <li>Public datasets are aggregate-only and updated regularly.</li> <li>Company clarifications are published separately without altering or removing original reports.</li> <li>No personal data is shared, sold, or traded with any third party.</li> </ul> <h3>Our Guarantee</h3> <p>NoGhostHiring was created because ghosting thrives in silence. Breaking that silence requires a platform candidates can trust. That trust is non-negotiable. Our guarantee is simple: your stories remain yours. We protect them, anonymize them, and use them only to bring clarity to a system that often hides behind closed doors.</p> <p>We do not sell data. We do not sell your identity. We do not sell your trust.</p>
+        <div class="border-top pt-3 pb-3 send-review-block">
+          <p>Help make NoGhostHiring more accurate for future candidates.</p>
+          <a href="https://app.nocodb.com/#/nc/form/aeeada42-f15a-44af-9fea-279bc1501401" target="_blank" class="share-footer-dark">Share Your Experience</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3"></div>
+  </div>
+  </div>
+  <div id="footer-placeholder"></div>
+
+  <script>
+    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="/assets/js/search.js"></script>
+
+</body>

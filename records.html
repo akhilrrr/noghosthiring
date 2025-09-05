@@ -1,0 +1,98 @@
+
+<body>
+  <div id="header-placeholder"></div>
+
+  <div class="container my-5">
+    <div class="row">
+
+    <div class="col-md-3"></div>
+    <div class="col-md-6">
+      <div class="index-top-intro">
+        <h1>Ghosting Records</h1>
+        <br />
+      </div>
+      <!--  -->
+      <div class="internal-para">
+        <p>An alphabetical index of companies, ghost score by candidate-reported experiences.</p>
+        <br><br>
+        <div id="records-container"></div>
+        
+
+       
+
+        <div class="border-top pt-3 pb-3 send-review-block">
+          <p>Help make NoGhostHiring more accurate for future candidates.</p>
+          <a href="https://app.nocodb.com/#/nc/form/aeeada42-f15a-44af-9fea-279bc1501401" target="_blank" class="share-footer-dark">Share Your Experience</a>
+        </div>
+
+      </div>
+
+    </div>
+    <div class="col-md-3"></div>
+
+    </div>
+
+    
+  </div>
+
+  <div id="footer-placeholder"></div>
+
+  <script>
+    async function loadPartials() {
+      const header = await fetch("/partials/header.html");
+      document.getElementById("header-placeholder").innerHTML = await header.text();
+
+      const footer = await fetch("/partials/footer.html");
+      document.getElementById("footer-placeholder").innerHTML = await footer.text();
+    }
+    loadPartials();
+  </script>
+
+  <script>
+    async function loadRecords() {
+      const res = await fetch("/data/companies.json");
+      const companies = await res.json();
+
+      // sort alphabetically
+      companies.sort((a, b) => a.company.localeCompare(b.company));
+
+      // group by first letter
+      const grouped = {};
+      companies.forEach(c => {
+        const letter = c.company[0].toUpperCase();
+        if (!grouped[letter]) grouped[letter] = [];
+        grouped[letter].push(c);
+      });
+
+      const container = document.getElementById("records-container");
+      container.innerHTML = "";
+
+      for (const letter of Object.keys(grouped).sort()) {
+        const section = document.createElement("div");
+        section.innerHTML = `<h3>${letter}</h3><ul></ul>`;
+        const ul = section.querySelector("ul");
+
+        grouped[letter].forEach(c => {
+          const li = document.createElement("li");
+          li.innerHTML = `
+            <a href="/companies/${c.slug}.html">${c.company}</a>
+            <span class="text-muted"> — Ghost Score: ${c.ghost_score} </span>
+          `;
+          ul.appendChild(li);
+        });
+
+        container.appendChild(section);
+      }
+    }
+
+    loadRecords();
+  </script>
+
+  <!--  -->
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script src="/assets/js/search.js"></script>
+
+
+</body>
+
