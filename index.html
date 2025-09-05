@@ -26,10 +26,10 @@
   <div id="footer-placeholder"></div>
 
   <script>
-    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+    async function loadPartials() { const header = await fetch("../partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("../partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
   </script>
   <script>
-    async function loadTopGhosting() { try { const response = await fetch('/data/companies.json'); const companies = await response.json(); const topCompanies = companies .sort((a, b) => b.ghost_score - a.ghost_score) .slice(0, 10); const tableBody = document.getElementById('top-ghosting-table');  getBandBadge = (band) => { switch (band) { case "Low": return '<span class="badge badge-low">Low</span>'; case "Medium": return '<span class="badge badge-medium">Medium</span>'; case "High": return '<span class="badge badge-high">High</span>'; default: return '<span class="badge bg-secondary">Unknown</span>'; } };
+    async function loadTopGhosting() { try { const response = await fetch('../data/companies.json'); const companies = await response.json(); const topCompanies = companies .sort((a, b) => b.ghost_score - a.ghost_score) .slice(0, 10); const tableBody = document.getElementById('top-ghosting-table');  getBandBadge = (band) => { switch (band) { case "Low": return '<span class="badge badge-low">Low</span>'; case "Medium": return '<span class="badge badge-medium">Medium</span>'; case "High": return '<span class="badge badge-high">High</span>'; default: return '<span class="badge bg-secondary">Unknown</span>'; } };
     topCompanies.forEach((company, index) => { const tr = document.createElement('tr'); tr.innerHTML = ` <th scope="row">${index + 1}</th> <td> <a href="/companies/${company.slug}.html" class="fw-bold text-decoration-none"> ${company.company} </a> </td> <td>${company.ghost_score}</td> <td>${getBandBadge(company.severity_band)}</td> `; tableBody.appendChild(tr); }); } catch (error) { console.error("Error loading companies.json:", error); } } loadTopGhosting();
   </script>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
