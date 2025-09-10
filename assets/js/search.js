@@ -25,7 +25,7 @@ function waitForElement(selector) {
     console.log("🔎 Search form ready");
 
     // Load companies.json
-    const res = await fetch("/data/companies.json");
+    const res = await fetch("data/companies.json");
     if (!res.ok) throw new Error("Failed to load companies.json");
     const companies = await res.json();
     console.log("📦 Companies loaded:", companies.length);

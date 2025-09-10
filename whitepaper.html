@@ -268,8 +268,8 @@
 
 
 <script>
-    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+    async function loadPartials() { const header = await fetch("partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
 </script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-<script src="/assets/js/search.js"></script>
+<script src="assets/js/search.js"></script>
 </body>

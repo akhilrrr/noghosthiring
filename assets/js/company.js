@@ -92,7 +92,7 @@ function renderCompanyReportFromObject(c) {
         container.innerHTML = `<div class="alert alert-danger">No company specified.</div>`;
         return;
       }
-      const res = await fetch('/data/companies.json');
+      const res = await fetch('data/companies.json');
       const companies = await res.json();
       const company = companies.find(c => c.slug === slug);
       if (!company) {

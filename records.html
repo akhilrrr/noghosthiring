@@ -39,10 +39,10 @@
 
   <script>
     async function loadPartials() {
-      const header = await fetch("/partials/header.html");
+      const header = await fetch("partials/header.html");
       document.getElementById("header-placeholder").innerHTML = await header.text();
 
-      const footer = await fetch("/partials/footer.html");
+      const footer = await fetch("partials/footer.html");
       document.getElementById("footer-placeholder").innerHTML = await footer.text();
     }
     loadPartials();
@@ -50,7 +50,7 @@
 
   <script>
     async function loadRecords() {
-      const res = await fetch("/data/companies.json");
+      const res = await fetch("data/companies.json");
       const companies = await res.json();
 
       // sort alphabetically
@@ -75,7 +75,7 @@
         grouped[letter].forEach(c => {
           const li = document.createElement("li");
           li.innerHTML = `
-            <a href="/companies/${c.slug}.html">${c.company}</a>
+            <a href="companies/${c.slug}.html">${c.company}</a>
             <span class="text-muted"> — Ghost Score: ${c.ghost_score} </span>
           `;
           ul.appendChild(li);
@@ -91,7 +91,7 @@
   <!--  -->
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-<script src="/assets/js/search.js"></script>
+<script src="assets/js/search.js"></script>
 
 
 </body>

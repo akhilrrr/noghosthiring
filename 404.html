@@ -5,7 +5,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-6">
         <div class="index-top-intro">
-          <h1>404: No Ghosts Detected</h1> <p>You won’t find this company here because they’ve never ghosted anyone. The page, however? That one disappeared on you.</p> <a href="/index.html" class="share-footer-dark">Back to Home</a>
+          <h1>404: No Ghosts Detected</h1> <p>You won’t find this company here because they’ve never ghosted anyone. The page, however? That one disappeared on you.</p> <a href="index.html" class="share-footer-dark">Back to Home</a>
         </div>
       </div>
       <div class="col-md-3"></div>
@@ -14,7 +14,7 @@
   <div id="footer-placeholder"></div>
 
   <script>
-    async function loadPartials() { const header = await fetch("/partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("/partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
+    async function loadPartials() { const header = await fetch("partials/header.html"); document.getElementById("header-placeholder").innerHTML = await header.text(); const footer = await fetch("partials/footer.html"); document.getElementById("footer-placeholder").innerHTML = await footer.text(); } loadPartials();
   </script>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-  <script src="/assets/js/search.js"></script>
+  <script src="assets/js/search.js"></script>

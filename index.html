@@ -33,4 +33,4 @@
     topCompanies.forEach((company, index) => { const tr = document.createElement('tr'); tr.innerHTML = ` <th scope="row">${index + 1}</th> <td> <a href="/companies/${company.slug}.html" class="fw-bold text-decoration-none"> ${company.company} </a> </td> <td>${company.ghost_score}</td> <td>${getBandBadge(company.severity_band)}</td> `; tableBody.appendChild(tr); }); } catch (error) { console.error("Error loading companies.json:", error); } } loadTopGhosting();
   </script>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
-  <script src="/assets/js/search.js"></script>
+  <script src="assets/js/search.js"></script>
