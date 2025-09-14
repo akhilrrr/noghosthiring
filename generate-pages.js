@@ -84,7 +84,7 @@ return `<!DOCTYPE html>
 ${headBits}
 <link rel="stylesheet" href="${REPORT_CSS_HREF}">
 <meta name="description" content="Ghost Score report for ${esc(c.company)} showing severity, frequency and candidate experience details.">
-<link rel="canonical" href="companies/${esc(c.slug)}.html">
+<link rel="canonical" href="/companies/${esc(c.slug)}.html">
 </head>
 <body>
 ${headerMarkup}
@@ -107,17 +107,17 @@ ${headerMarkup}
       <div class="kpi">
         <div class="kpi-label">Ghost Score</div>
         <div class="kpi-value ${scoreCSS}">${esc(c.ghost_score ?? '—')}</div>
-        ${sub('0–999 scale. Higher score = higher chance of ghosting.')}
+        ${sub('Overall ghosting risk on a 0–999 scale; higher means greater likelihood of ghosting.')}
       </div>
       <div class="kpi">
         <div class="kpi-label">Severity Band</div>
         <div class="kpi-value">${esc(c.severity_band ?? '—')}</div>
-        ${sub('Impact level of ghosting: Low / Medium / High.')}
+        ${sub('How strongly ghosting affected reported candidates, grouped into Low, Medium, or High impact.')}
       </div>
       <div class="kpi">
         <div class="kpi-label">Avg Report Score</div>
         <div class="kpi-value">${esc(c.avg_report_score ?? '—')}</div>
-        ${sub('Average severity from all reports (Capped).')}
+        ${sub('Avg. severity rating from all reports (capped at 999), showing how intense experiences were.')}
       </div>
     </section>
 
@@ -235,7 +235,11 @@ ${headerMarkup}
       ${H('Candidate Experience Notes', 'Direct quotes or comments from candidate submissions (if any).')}
       ${
         Array.isArray(c.comments) && c.comments.length
-          ? `<ul class="comments">${c.comments.map(cm => `<li>“${esc(cm)}”</li>`).join('')}</ul>`
+          ? `<ul class="comments">
+  ${c.comments.map(cm => `
+    <li><span class="comment-icon">❝</span> <em>${esc(cm)}</em></li>
+  `).join('')}
+</ul>`
           : '<p class="muted">No candidate comments were included in the recent submissions.</p>'
       }
     </section>
