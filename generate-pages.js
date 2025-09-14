@@ -236,10 +236,7 @@ ${headerMarkup}
       ${
         Array.isArray(c.comments) && c.comments.length
           ? `<ul class="comments">
-  ${c.comments.map(cm => `
-    <li><span class="comment-icon">❝</span> <em>${esc(cm)}</em></li>
-  `).join('')}
-</ul>`
+  ${c.comments.map(cm => `<li><span class="comment-icon">❝</span> <em>${esc(cm)}</em><span class="comment-icon">❞</span></li>`).join('')} </ul>`
           : '<p class="muted">No candidate comments were included in the recent submissions.</p>'
       }
     </section>

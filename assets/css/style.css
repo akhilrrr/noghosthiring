@@ -250,4 +250,19 @@ code {
   .equation dd {
     margin: 0.25rem 0 0.75rem 0;
   }
+.comments {
+  list-style: none; padding-left: 0;
+  margin: 0;
+}
 
+.comments li {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.comments .comment-icon {
+  color: #555; 
+  margin-right: 6px;
+  font-weight: bold;
+}
