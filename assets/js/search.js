@@ -66,7 +66,7 @@ function waitForElement(selector) {
           errorBox.className = "text-danger mt-2";
           form.appendChild(errorBox);
         }
-        errorBox.textContent = "Company not found. Try another name.";
+        errorBox.textContent = "404: No Ghosts Detected</h1> <p>You won’t find this company here because they’ve never ghosted anyone";
       }
     });
 

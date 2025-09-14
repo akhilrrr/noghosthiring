@@ -1,7 +1,4 @@
-/**
- * Run:
- *   node scripts/generate.js
- */
+/** * Run: node scripts/generate.js  */
 
 const fs = require('fs');
 const path = require('path');
@@ -15,11 +12,11 @@ const OUT_DIR = path.join(ROOT, 'companies');
 
 const LINKS = {
   submitReport: 'https://app.nocodb.com/#/nc/form/aeeada42-f15a-44af-9fea-279bc1501401',
-  recordList: 'records.html',
-  repReview: 'transparency.html',
+  recordList: '/records.html',
+  repReview: '/transparency.html',
 };
 
-const REPORT_CSS_HREF = 'assets/css/company-report.css';
+const REPORT_CSS_HREF = '/assets/css/company-report.css';
 
 const readFile = (p) => fs.readFileSync(p, 'utf8');
 const writeFile = (p, s) => fs.writeFileSync(p, s, 'utf8');
