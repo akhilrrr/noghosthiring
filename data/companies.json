@@ -2123,6 +2123,66 @@
     ]
   },
   {
+    "company": "Microsoft",
+    "slug": "microsoft",
+    "aliases": [
+      "microsoft",
+      "microsoft.com",
+      "microsoftcom"
+    ],
+    "website_url": "https://microsoft.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 612,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 612,
+    "avg_report_score": 836,
+    "scores": [
+      836
+    ],
+    "avg_severity": 146,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Technical Writer/Content Writer"
+    ],
+    "top_locations": [
+      "United States"
+    ],
+    "assignment_types": [
+      "Writing Sample"
+    ],
+    "top_experience_levels": [
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "Less than 2 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Canonical",
     "slug": "canonical",
     "aliases": [
@@ -2492,6 +2552,67 @@
     "comments": [
       "Created a working mobile prototype for them, spent almost 20 hours on the assignment. They asked me to submit the prototype and Figma file on a particular date, and i did that, respecting the deadline. They told me that they would schedule a round soon to discuss my thought process, so i even prepared a presentation to walk them through everything, but that round was never scheduled. I followed up and got a rejection email instead, which was very frustrating."
     ]
+  },
+  {
+    "company": "Ask Vinny",
+    "slug": "askvinny",
+    "aliases": [
+      "ask vinny",
+      "askvinny",
+      "askvinny.com",
+      "askvinnycom"
+    ],
+    "website_url": "https://www.askvinny.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 604,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 604,
+    "avg_report_score": 811,
+    "scores": [
+      811
+    ],
+    "avg_severity": 174,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Frontend/Backend/Full Stack Developer"
+    ],
+    "top_locations": [
+      "Remote"
+    ],
+    "assignment_types": [
+      "Coding Test"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Recruitment Agency"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 100,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
   },
   {
     "company": "Synopsys Inc",
@@ -2924,6 +3045,68 @@
     ]
   },
   {
+    "company": "First Advantage",
+    "slug": "firstadvantage",
+    "aliases": [
+      "first advantage",
+      "firstadvantage",
+      "fadv.com",
+      "fadvcom",
+      "fadv"
+    ],
+    "website_url": "https://fadv.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 593,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 593,
+    "avg_report_score": 778,
+    "scores": [
+      778
+    ],
+    "avg_severity": 164,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Varu**"
+    ],
+    "top_jobs": [
+      "Director of SOC"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "OneStream",
     "slug": "onestream",
     "aliases": [
@@ -3167,6 +3350,66 @@
     "avg_realization_time": "1-2 Weeks",
     "official_rejection_pct": 100,
     "comments": []
+  },
+  {
+    "company": "Agoda",
+    "slug": "agoda",
+    "aliases": [
+      "agoda"
+    ],
+    "website_url": "agoda.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 589,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 589,
+    "avg_report_score": 767,
+    "scores": [
+      767
+    ],
+    "avg_severity": 126,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Frontend/Backend/Full Stack Developer"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "Coding Test"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [
+      "Less than 2 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "Less than 1 Week",
+    "official_rejection_pct": 0,
+    "comments": [
+      "Ghosted after OA even though all test cases passed."
+    ]
   },
   {
     "company": "Vodafone",
@@ -3920,6 +4163,66 @@
     ]
   },
   {
+    "company": "WayFair",
+    "slug": "wayfair",
+    "aliases": [
+      "wayfair",
+      "wayfair.com",
+      "wayfaircom"
+    ],
+    "website_url": "https://www.wayfair.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 565,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 565,
+    "avg_report_score": 695,
+    "scores": [
+      695
+    ],
+    "avg_severity": 106,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Rajk**************"
+    ],
+    "top_jobs": [
+      "Security Manager"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "Job Referral"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Dynata",
     "slug": "dynata",
     "aliases": [
@@ -4101,6 +4404,65 @@
     "comments": []
   },
   {
+    "company": "Platform.sh",
+    "slug": "platformsh",
+    "aliases": [
+      "platform.sh",
+      "platformsh"
+    ],
+    "website_url": "www.platform.sh",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 555,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 555,
+    "avg_report_score": 666,
+    "scores": [
+      666
+    ],
+    "avg_severity": 92,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Sr Content Manager"
+    ],
+    "top_locations": [
+      "Remote"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "5 hours of interviews over a month period, then completely ghosted."
+    ]
+  },
+  {
     "company": "Liminal",
     "slug": "liminal",
     "aliases": [
@@ -4256,6 +4618,66 @@
     ],
     "application_methods": [
       "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
+    "company": "GreenLight",
+    "slug": "greenlight",
+    "aliases": [
+      "greenlight",
+      "greenlight.com",
+      "greenlightcom"
+    ],
+    "website_url": "https://greenlight.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 551,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 551,
+    "avg_report_score": 652,
+    "scores": [
+      652
+    ],
+    "avg_severity": 92,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Sona*******"
+    ],
+    "top_jobs": [
+      "Security Engineer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
     ],
     "employment_types": [
       "Full-Time"
@@ -4465,6 +4887,64 @@
     "comments": []
   },
   {
+    "company": "Salesforce",
+    "slug": "salesforce",
+    "aliases": [
+      "salesforce",
+      "salesforce.com",
+      "salesforcecom"
+    ],
+    "website_url": "https://www.salesforce.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 549,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 549,
+    "avg_report_score": 648,
+    "scores": [
+      648
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Account Director"
+    ],
+    "top_locations": [
+      "United States"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "One North",
     "slug": "onenorth",
     "aliases": [
@@ -4524,6 +5004,63 @@
     "comments": [
       "The first interview was very normal, a bit of a technical screener but not too thorough as I was told that would come along in the next one or two interviews and the interviewer is kind and professional.\n\nThe second interview was so unprofessional it was bizarre. The interviewer mentioned my name was similar to a personal connection he no longer spoke to, was very cold in his questioning, admitted he did not read my resume and was not \"good at reading resumes\" but wanted me to explain my work and success so I did just that, only for him to say \"I didn't hear xyz\" so I'd explain how those were covered under umbrella terms like research and proceeded to go into higher detail. We had some strange interactions where his sound started cutting in and out and he commented \"what's wrong with your face?\" because I was squinting as I tried to hear him... just bizarre. His expressions always sided on negative or critical despite him saying he did very little to prepare.\n\nI thanked him for the interview despite the negative vibes a day or two later but never heard back, about a week or two after hearing nothing, not even an acknowledgement of time spent I assumed nothing would come of the conversation. I did reach back out to the first interviewer but also nothing."
     ]
+  },
+  {
+    "company": "Pattern Energy",
+    "slug": "patternenergy",
+    "aliases": [
+      "pattern energy",
+      "patternenergy"
+    ],
+    "website_url": "patternenergy.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 547,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 547,
+    "avg_report_score": 640,
+    "scores": [
+      640
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "IT Lead"
+    ],
+    "top_locations": [
+      "United States"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
   },
   {
     "company": "Parship",
@@ -5431,7 +5968,7 @@
     "aliases": [
       "mcdonalds"
     ],
-    "website_url": "Mchire.com",
+    "website_url": "mchire.com",
     "reports_count": 1,
     "effective_reports": 1,
     "moderated_reports": 1,
