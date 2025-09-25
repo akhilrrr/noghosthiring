@@ -2183,6 +2183,71 @@
     "comments": []
   },
   {
+    "company": "ACQUITABLE PTE LTD",
+    "slug": "acquitablepteltd",
+    "aliases": [
+      "acquitable pte ltd",
+      "acquitablepteltd",
+      "acquitablepte",
+      "mycareersfuture.gov.sg",
+      "mycareersfuturegovsg",
+      "mycareersfuture"
+    ],
+    "website_url": "https://www.mycareersfuture.gov.sg/job/admin/admin-executive-acquitable-e2e2239fe922a1b4df7dcc02b8cd2fbc?source=MCF&event=Search",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 612,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 612,
+    "avg_report_score": 837,
+    "scores": [
+      837
+    ],
+    "avg_severity": 154,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Admin Executive (Permanent)"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "'Personality' test which was really a sales test on whether you are comfortable with selling products to your friends and family."
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "mycareersfuture"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [
+      "Less than 2 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "They took my NRIC in full and ghosted me."
+    ]
+  },
+  {
     "company": "Canonical",
     "slug": "canonical",
     "aliases": [
@@ -4281,6 +4346,121 @@
     "comments": []
   },
   {
+    "company": "Product Marketing Alliance",
+    "slug": "productmarketingalliance",
+    "aliases": [
+      "product marketing alliance",
+      "productmarketingalliance",
+      "productmarketingalliance.com",
+      "productmarketingalliancecom"
+    ],
+    "website_url": "https://www.productmarketingalliance.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 559,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 559,
+    "avg_report_score": 678,
+    "scores": [
+      678
+    ],
+    "avg_severity": 111,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Support Representative"
+    ],
+    "top_locations": [
+      "United Kingdom"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Entry-Level (0-2 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 100,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Response After Application"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
+    "company": "Attentive",
+    "slug": "attentive",
+    "aliases": [
+      "attentive"
+    ],
+    "website_url": "attentive.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 559,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 559,
+    "avg_report_score": 677,
+    "scores": [
+      677
+    ],
+    "avg_severity": 104,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Customer Support Specialist"
+    ],
+    "top_locations": [
+      "United Kingdom"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Entry-Level (0-2 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 100,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Response After Application"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Publishing.ai",
     "slug": "publishingai",
     "aliases": [
@@ -4460,6 +4640,129 @@
     "official_rejection_pct": 0,
     "comments": [
       "5 hours of interviews over a month period, then completely ghosted."
+    ]
+  },
+  {
+    "company": "Build A Bear",
+    "slug": "buildabear",
+    "aliases": [
+      "build a bear",
+      "buildabear",
+      "buildabear.com",
+      "buildabearcom"
+    ],
+    "website_url": "https://www.buildabear.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 554,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 554,
+    "avg_report_score": 661,
+    "scores": [
+      661
+    ],
+    "avg_severity": 92,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Software Engineer/Developer"
+    ],
+    "top_locations": [
+      "United States"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
+    "company": "Credit Suisse",
+    "slug": "creditsuisse",
+    "aliases": [
+      "credit suisse",
+      "creditsuisse",
+      "ubs.com",
+      "ubscom",
+      "ubs"
+    ],
+    "website_url": "http://ubs.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 553,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 553,
+    "avg_report_score": 659,
+    "scores": [
+      659
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Srin***********"
+    ],
+    "top_jobs": [
+      "Trader"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "Piece of shit company"
     ]
   },
   {
@@ -4945,6 +5248,70 @@
     "comments": []
   },
   {
+    "company": "Siemens Singapore",
+    "slug": "siemenssingapore",
+    "aliases": [
+      "siemens singapore",
+      "siemenssingapore",
+      "siemens.com",
+      "siemenscom",
+      "siemens"
+    ],
+    "website_url": "https://www.siemens.com/sg/en.html",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 548,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 548,
+    "avg_report_score": 644,
+    "scores": [
+      644
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Char**************************************"
+    ],
+    "top_jobs": [
+      "Marketing manager"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "One of the worst hiring experience as a job seeker. The HR promised to schedule the next call after 2 phone interviews and ghosted me completely."
+    ]
+  },
+  {
     "company": "One North",
     "slug": "onenorth",
     "aliases": [
@@ -5235,6 +5602,130 @@
       "None": 0
     },
     "avg_realization_time": "More than 1 Month",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
+    "company": "Propeller",
+    "slug": "propeller",
+    "aliases": [
+      "propeller",
+      "propelleraero.com",
+      "propelleraerocom",
+      "propelleraero"
+    ],
+    "website_url": "https://www.propelleraero.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 544,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 544,
+    "avg_report_score": 632,
+    "scores": [
+      632
+    ],
+    "avg_severity": 78,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Dani*********"
+    ],
+    "top_jobs": [
+      "Frontend/Backend/Full Stack Developer"
+    ],
+    "top_locations": [
+      "Australia"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
+    "company": "Quo (formerly OpenPhone)",
+    "slug": "quoformerlyopenphone",
+    "aliases": [
+      "quo (formerly openphone)",
+      "quoformerlyopenphone",
+      "quo.com",
+      "quocom",
+      "quo",
+      "quo(formerlyopenphone)"
+    ],
+    "website_url": "https://www.quo.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 543,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 543,
+    "avg_report_score": 628,
+    "scores": [
+      628
+    ],
+    "avg_severity": 78,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "marc*********@openphone.co"
+    ],
+    "top_jobs": [
+      "Software Engineer/Developer"
+    ],
+    "top_locations": [
+      "Canada"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
     "official_rejection_pct": 0,
     "comments": []
   },
@@ -6732,6 +7223,68 @@
     "avg_realization_time": "2-4 Weeks",
     "official_rejection_pct": 0,
     "comments": []
+  },
+  {
+    "company": "Zendesk",
+    "slug": "zendesk",
+    "aliases": [
+      "zendesk",
+      "zendesk.com",
+      "zendeskcom"
+    ],
+    "website_url": "https://www.zendesk.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 531,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 531,
+    "avg_report_score": 592,
+    "scores": [
+      592
+    ],
+    "avg_severity": 83,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "purv********@zendesk.com"
+    ],
+    "top_jobs": [
+      "Frontend/Backend/Full Stack Developer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Response After Initial Inquiry (via call, email, or message)"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 100,
+    "comments": [
+      "I was actually ghosted twice by the same recruiter. Actually first time she called me for initial discussion and said I'll be sending you a calendar invite later by EOD but didn't receive it, next day when I called her back she didn't pick up the call. I again applied for a different job and again after initial HR discussion she said I'll be sending you a calendar invite, this time I even mailed her the next working day but didn't receive any response."
+    ]
   },
   {
     "company": "Southwest Airlines",
