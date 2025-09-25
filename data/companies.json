@@ -1,5 +1,79 @@
 [
   {
+    "company": "Goldman Sachs",
+    "slug": "goldmansachs",
+    "aliases": [
+      "goldman sachs",
+      "goldmansachs",
+      "goldmansachs.com",
+      "goldmansachscom"
+    ],
+    "website_url": "https://www.goldmansachs.com/careers",
+    "reports_count": 3,
+    "effective_reports": 3,
+    "moderated_reports": 3,
+    "under_review_reports": 0,
+    "ghost_score": 673,
+    "ghost_score_band": "High",
+    "credibility_boost": 24,
+    "visual_ghost_score": 697,
+    "avg_report_score": 788.67,
+    "scores": [
+      620,
+      855,
+      891
+    ],
+    "avg_severity": 150,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Software Engineer/Developer",
+      "Data Analyst/Data Scientist/AI/ML Engineer"
+    ],
+    "top_locations": [
+      "Singapore",
+      "Germany"
+    ],
+    "assignment_types": [
+      "No Assignments Required",
+      "Case Study",
+      "Coding Test"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)",
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn",
+      "Job Referral"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 33,
+    "ghosting_stages": [
+      "Ghosted After First Interview",
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "More than 10 Hours",
+      "Less than 2 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "Got ghosted after 7 rounds lol. When the 7th round was not a behavioural round I kind of know they are not serious in hiring. Apparently Goldman is well known in the industry to drag out interviews and then ghost, and maybe suddenly offer like after 4 months. I said I would apply again because it is interview practice in this market. But if you have a good employer maybe not worth the effort",
+      "Applied twice over my career. Once through referral and once reached out by their recruiter. Both times ghosted. First time ghosted immediately, second time after first interview. No response after trying to follow up."
+    ]
+  },
+  {
     "company": "Zalando",
     "slug": "zalando",
     "aliases": [
@@ -1685,6 +1759,68 @@
     "comments": []
   },
   {
+    "company": "Touch Community Services",
+    "slug": "touchcommunityservices",
+    "aliases": [
+      "touch community services",
+      "touchcommunityservices",
+      "touch.org.sg",
+      "touchorgsg",
+      "touch"
+    ],
+    "website_url": "https://www.touch.org.sg/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 621,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 621,
+    "avg_report_score": 863,
+    "scores": [
+      863
+    ],
+    "avg_severity": 173,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Counsellor"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "Less than 2 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Lavish Alice",
     "slug": "lavishalice",
     "aliases": [
@@ -1745,75 +1881,6 @@
     "official_rejection_pct": 100,
     "comments": [
       "They invited me to an interview before I sent over the project that was branding for their new campaign and the interview was meant for the following Friday. Once I had done the task, the guy who I spoke to never responded. I asked if he had three days after and he said yes. After that, I heard nothing. I tried to call his number and nothing. Two weeks after, I even instagrammed the brand and they fobbed me off for over a week. Then the week after that he emailed saying he had hired someone else. So wasn’t even willing to give me the proposed interview. Sounds like they already hired and wanted free work ideas."
-    ]
-  },
-  {
-    "company": "Goldman Sachs",
-    "slug": "goldmansachs",
-    "aliases": [
-      "goldman sachs",
-      "goldmansachs",
-      "goldmansachs.com",
-      "goldmansachscom"
-    ],
-    "website_url": "https://www.goldmansachs.com/careers",
-    "reports_count": 2,
-    "effective_reports": 2,
-    "moderated_reports": 2,
-    "under_review_reports": 0,
-    "ghost_score": 619,
-    "ghost_score_band": "High",
-    "credibility_boost": 19,
-    "visual_ghost_score": 638,
-    "avg_report_score": 737.5,
-    "scores": [
-      620,
-      855
-    ],
-    "avg_severity": 121,
-    "severity_band": "Medium",
-    "top_recruiters": [],
-    "top_jobs": [
-      "Software Engineer/Developer",
-      "Data Analyst/Data Scientist/AI/ML Engineer"
-    ],
-    "top_locations": [
-      "Singapore",
-      "Germany"
-    ],
-    "assignment_types": [
-      "No Assignments Required",
-      "Case Study"
-    ],
-    "top_experience_levels": [
-      "Mid-Level (2-5 years)",
-      "Senior-Level (5-10 years)"
-    ],
-    "application_methods": [
-      "LinkedIn"
-    ],
-    "employment_types": [
-      "Full-Time"
-    ],
-    "ai_screening_pct": 0,
-    "additional_steps_pct": 0,
-    "ghosting_stages": [
-      "Ghosted After Multiple Interviews",
-      "Ghosted After First Interview"
-    ],
-    "assignment_time": [
-      "More than 10 Hours"
-    ],
-    "assignment_paid_pct": 0,
-    "feedback_pct": {
-      "Detailed": 0,
-      "Vague": 0,
-      "None": 100
-    },
-    "avg_realization_time": "2-4 Weeks",
-    "official_rejection_pct": 0,
-    "comments": [
-      "Got ghosted after 7 rounds lol. When the 7th round was not a behavioural round I kind of know they are not serious in hiring. Apparently Goldman is well known in the industry to drag out interviews and then ghost, and maybe suddenly offer like after 4 months. I said I would apply again because it is interview practice in this market. But if you have a good employer maybe not worth the effort"
     ]
   },
   {
@@ -5312,6 +5379,66 @@
     ]
   },
   {
+    "company": "Fountane",
+    "slug": "fountane",
+    "aliases": [
+      "fountane",
+      "fountane.com",
+      "fountanecom"
+    ],
+    "website_url": "https://www.fountane.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 548,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 548,
+    "avg_report_score": 645,
+    "scores": [
+      645
+    ],
+    "avg_severity": 86,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "swat**@fountane.com"
+    ],
+    "top_jobs": [
+      "Software Engineer/Developer"
+    ],
+    "top_locations": [
+      "Remote"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Job Referral"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "One North",
     "slug": "onenorth",
     "aliases": [
@@ -7345,6 +7472,68 @@
     "avg_realization_time": "2-4 Weeks",
     "official_rejection_pct": 100,
     "comments": []
+  },
+  {
+    "company": "Essilor",
+    "slug": "essilor",
+    "aliases": [
+      "essilor",
+      "essilor.com",
+      "essilorcom"
+    ],
+    "website_url": "https://www.essilor.com/uk-en/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 530,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 530,
+    "avg_report_score": 590,
+    "scores": [
+      590
+    ],
+    "avg_severity": 79,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Lesl*********"
+    ],
+    "top_jobs": [
+      "Business Development Manager"
+    ],
+    "top_locations": [
+      "United Kingdom"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 100,
+    "comments": [
+      "Interviewer verbally stated that she would email me, which made me even more upset since this promise was not honoured and they just ghosted me. This is totally unprofessional."
+    ]
   },
   {
     "company": "Rollsburry",
