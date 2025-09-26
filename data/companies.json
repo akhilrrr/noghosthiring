@@ -517,6 +517,66 @@
     ]
   },
   {
+    "company": "Kantar",
+    "slug": "kantar",
+    "aliases": [
+      "kantar",
+      "kantar.com",
+      "kantarcom"
+    ],
+    "website_url": "https://www.kantar.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 638,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 638,
+    "avg_report_score": 913,
+    "scores": [
+      913
+    ],
+    "avg_severity": 223,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Management Associate Programme"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "Business Presentation"
+    ],
+    "top_experience_levels": [
+      "Entry-Level (0-2 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 100,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "ShyftLabs",
     "slug": "shyftlabs",
     "aliases": [
