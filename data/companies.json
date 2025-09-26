@@ -2066,6 +2066,71 @@
     "comments": []
   },
   {
+    "company": "GIC",
+    "slug": "gic",
+    "aliases": [
+      "gic",
+      "linkedin.com",
+      "linkedincom",
+      "linkedin"
+    ],
+    "website_url": "https://www.linkedin.com/company/gic/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 617,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 617,
+    "avg_report_score": 851,
+    "scores": [
+      851
+    ],
+    "avg_severity": 192,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Aaro******************"
+    ],
+    "top_jobs": [
+      "Software Engineer/Developer"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "Coding Test"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Recruitment Agency"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After First Interview"
+    ],
+    "assignment_time": [
+      "More than 10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 100,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "https://www.careers-page.com/fpt-asia-pacific-pte-ltd/job/L9YW9Y74\n\nThe actual job is different from the job listing. I only found out at the interview that the ask is different from what I can offer."
+    ]
+  },
+  {
     "company": "Azym Technology",
     "slug": "azymtechnology",
     "aliases": [
@@ -2247,6 +2312,73 @@
     "official_rejection_pct": 0,
     "comments": [
       "I already reached the manager's interview and based on our discussions, they view me positively even orienting me on the process that would happen after I get accepted. They asked me about my expected salary range and I told them I already answered it in their application form. After that meeting, I never heard from them. I inquired the HR who contacted me for the role but I received an auto-reply stating that she is on vacation."
+    ]
+  },
+  {
+    "company": "HBA/Hirsch Bedner Associates",
+    "slug": "hbahirschbednerassociates",
+    "aliases": [
+      "hba/hirsch bedner associates",
+      "hbahirschbednerassociates",
+      "hba.com",
+      "hbacom",
+      "hba",
+      "hba/hirschbednerassociates"
+    ],
+    "website_url": "https://hba.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 613,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 613,
+    "avg_report_score": 838,
+    "scores": [
+      838
+    ],
+    "avg_severity": 148,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Dori***"
+    ],
+    "top_jobs": [
+      "Artist"
+    ],
+    "top_locations": [
+      "Singapore"
+    ],
+    "assignment_types": [
+      "Portfolio Submission"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "When I first received an email from HR, it was past 10pm on a Thursday night, requesting for an interview via Teams the very next day, Friday. And once that was done, I was scheduled for an interview at their convenience the following Tuesday morning. The interview was cancelled and changed to the afternoon. The whole process was extremely hasty and rushed. Everything seemed to be purely on the convenience of the company. They made me rush to submit a portfolio only to ghost me afterwards even after I sent a follow up email 3 weeks later asking for an update."
     ]
   },
   {
@@ -3111,6 +3243,69 @@
     "official_rejection_pct": 0,
     "comments": [
       "I was ghosted after verbally being accepted for the role and being promised that a final offer letter was on its way"
+    ]
+  },
+  {
+    "company": "Arkham",
+    "slug": "arkham",
+    "aliases": [
+      "arkham",
+      "arkm.com",
+      "arkmcom",
+      "arkm"
+    ],
+    "website_url": "https://arkm.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 598,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 598,
+    "avg_report_score": 793,
+    "scores": [
+      793
+    ],
+    "avg_severity": 138,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Frontend/Backend/Full Stack Developer"
+    ],
+    "top_locations": [
+      "United States"
+    ],
+    "assignment_types": [
+      "Coding Test"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "They reached out by email"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "Less than 1 Week",
+    "official_rejection_pct": 0,
+    "comments": [
+      "They asked if I used ai during the interview I said no and I also completed the question correctly. Then was ghosted, thanked them for their time and nobody responded."
     ]
   },
   {
