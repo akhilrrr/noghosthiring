@@ -95,6 +95,8 @@ ${headerMarkup}
 <main class="wrap">
   <article class="card">
     <header class="head">
+      <div class="mb-4"> <button class="btn btn-light btn-md" onclick="window.history.length > 1 ? window.history.back() : window.location.href='/'" style="border-radius: 500px;"> <i class="bi bi-arrow-left"></i> &nbsp; Go Back </button> </div>
+
       <h1 class="title">${esc(c.company)}</h1>
       <div class="meta">
         <a href="${esc(c.website_url)}" target="_blank" rel="noopener" class="link">${esc(c.website_url)}</a>
@@ -309,7 +311,24 @@ ${footerMarkup}
     console.log('• Reading header/footer partials');
     const headerHtml = fs.existsSync(HEADER_PARTIAL) ? readFile(HEADER_PARTIAL) : '';
     const footerHtml = fs.existsSync(FOOTER_PARTIAL) ? readFile(FOOTER_PARTIAL) : '';
-    const { headBits, bodyBits: headerMarkup } = headSplit(headerHtml);
+    // const { headBits, bodyBits: headerMarkup } = headSplit(headerHtml);
+    const { headBits: rawHeadBits, bodyBits: originalHeader } = headSplit(headerHtml);
+
+    // Inject a style into <head> instead of inside header markup (prevents duplication)
+    const headBits = `${rawHeadBits}
+    <style>
+      #search-form { display: none !important; }
+      .border-bottom-to-hide { border-bottom: none !important; }
+    </style>`;
+
+    // Clean up any inline white border styles in header HTML
+    const headerMarkup = originalHeader.replace(
+      /border-bottom\s*:\s*1px\s*solid\s*#?ffffff\s*!important;?/gi,
+      ''
+    );
+
+
+
     const footerMarkup = footerHtml || '';
 
     ensureDir(OUT_DIR);

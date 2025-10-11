@@ -61,6 +61,10 @@
   }
   </script>
 
+    <style>
+      #search-form { display: none !important; }
+      .border-bottom-to-hide { border-bottom: none !important; }
+    </style>
 <link rel="stylesheet" href="/assets/css/company-report.css">
 <meta name="description" content="Ghost Score report for BLN24 showing severity, frequency and candidate experience details.">
 <link rel="canonical" href="/companies/bln24.html">
@@ -70,7 +74,7 @@
   <div class="container">
       <div class="col-md-3 text-center"></div>
       <div class="col-md-6 text-center">
-        <div class="d-flex justify-content-between align-items-center pb-3 border-bottom">
+        <div class="d-flex justify-content-between align-items-center pb-3 border-bottom border-bottom-to-hide">
           <a class="navbar-brand fw-bold d-flex align-items-center" href="/index.html"> <img src="/assets/images/NoGhost-Logo.svg" alt="#NoGhostHiring" class="me-2"> </a>
           <a href="https://app.nocodb.com/#/nc/form/aeeada42-f15a-44af-9fea-279bc1501401" class="btn btn-dark submit-report-btn" target="_blank">Share Your Ghosting Experience</a>
         </div>
@@ -91,6 +95,8 @@
 <main class="wrap">
   <article class="card">
     <header class="head">
+      <div class="mb-4"> <button class="btn btn-light btn-md" onclick="window.history.length > 1 ? window.history.back() : window.location.href='/'" style="border-radius: 500px;"> <i class="bi bi-arrow-left"></i> &nbsp; Go Back </button> </div>
+
       <h1 class="title">BLN24</h1>
       <div class="meta">
         <a href="https://www.bln24.com/" target="_blank" rel="noopener" class="link">https://www.bln24.com/</a>
