@@ -1704,6 +1704,74 @@
     ]
   },
   {
+    "company": "Sprinklr",
+    "slug": "sprinklr",
+    "aliases": [
+      "sprinklr",
+      "sprinklr.com",
+      "sprinklrcom"
+    ],
+    "website_url": "https://www.sprinklr.com/products/social-media-management/",
+    "reports_count": 2,
+    "effective_reports": 2,
+    "moderated_reports": 2,
+    "under_review_reports": 0,
+    "ghost_score": 623,
+    "ghost_score_band": "High",
+    "credibility_boost": 19,
+    "visual_ghost_score": 642,
+    "avg_report_score": 746,
+    "scores": [
+      652,
+      840
+    ],
+    "avg_severity": 118,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Adya**********",
+      "Shre*******"
+    ],
+    "top_jobs": [
+      "Software Engineer/Developer",
+      "MongoDB Cloud Expert"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required",
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)",
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "Company Website",
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Datavinci Private Ltd.",
     "slug": "datavinciprivateltd",
     "aliases": [
@@ -5384,66 +5452,6 @@
       "None": 0
     },
     "avg_realization_time": "2-4 Weeks",
-    "official_rejection_pct": 0,
-    "comments": []
-  },
-  {
-    "company": "Sprinklr",
-    "slug": "sprinklr",
-    "aliases": [
-      "sprinklr",
-      "sprinklr.com",
-      "sprinklrcom"
-    ],
-    "website_url": "https://www.sprinklr.com/products/social-media-management/",
-    "reports_count": 1,
-    "effective_reports": 1,
-    "moderated_reports": 1,
-    "under_review_reports": 0,
-    "ghost_score": 551,
-    "ghost_score_band": "Moderate",
-    "credibility_boost": 0,
-    "visual_ghost_score": 551,
-    "avg_report_score": 652,
-    "scores": [
-      652
-    ],
-    "avg_severity": 86,
-    "severity_band": "Low",
-    "top_recruiters": [
-      "Adya**********"
-    ],
-    "top_jobs": [
-      "Software Engineer/Developer"
-    ],
-    "top_locations": [
-      "India"
-    ],
-    "assignment_types": [
-      "No Assignments Required"
-    ],
-    "top_experience_levels": [
-      "Mid-Level (2-5 years)"
-    ],
-    "application_methods": [
-      "Company Website"
-    ],
-    "employment_types": [
-      "Full-Time"
-    ],
-    "ai_screening_pct": 0,
-    "additional_steps_pct": 0,
-    "ghosting_stages": [
-      "Ghosted After Multiple Interviews"
-    ],
-    "assignment_time": [],
-    "assignment_paid_pct": 0,
-    "feedback_pct": {
-      "Detailed": 0,
-      "Vague": 0,
-      "None": 0
-    },
-    "avg_realization_time": "1-2 Weeks",
     "official_rejection_pct": 0,
     "comments": []
   },
