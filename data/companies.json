@@ -5340,6 +5340,130 @@
     ]
   },
   {
+    "company": "Verizon",
+    "slug": "verizon",
+    "aliases": [
+      "verizon",
+      "verizon.com",
+      "verizoncom"
+    ],
+    "website_url": "https://www.verizon.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 553,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 553,
+    "avg_report_score": 659,
+    "scores": [
+      659
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Data Analyst/Data Scientist/AI/ML Engineer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "I proceeded to 4 rounds and then radio silence"
+    ]
+  },
+  {
+    "company": "Publicis Re:Sources",
+    "slug": "publicisresources",
+    "aliases": [
+      "publicis re:sources",
+      "publicisresources",
+      "publicisresources.com",
+      "publicisresourcescom",
+      "publicisre:sources"
+    ],
+    "website_url": "https://publicisresources.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 553,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 553,
+    "avg_report_score": 659,
+    "scores": [
+      659
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "shee*********@publicisresources.com"
+    ],
+    "top_jobs": [
+      "Data Analyst/Data Scientist/AI/ML Engineer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "In the last round, the panel assured me that HR would be in contact soon, after that radio silence"
+    ]
+  },
+  {
     "company": "Liminal",
     "slug": "liminal",
     "aliases": [
@@ -7379,6 +7503,69 @@
     "avg_realization_time": "1-2 Weeks",
     "official_rejection_pct": 0,
     "comments": []
+  },
+  {
+    "company": "JP Morgan Chase",
+    "slug": "jpmorganchase",
+    "aliases": [
+      "jp morgan chase",
+      "jpmorganchase",
+      "jpmorganchase.com",
+      "jpmorganchasecom"
+    ],
+    "website_url": "https://www.jpmorganchase.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 535,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 535,
+    "avg_report_score": 604,
+    "scores": [
+      604
+    ],
+    "avg_severity": 99,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Rasn********"
+    ],
+    "top_jobs": [
+      "Risk"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Executive (10+ years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "Less than 1 Week",
+    "official_rejection_pct": 100,
+    "comments": [
+      "It was MD of India JPMC entity, Soumik Nandy. He is a person who had a bad reputation in Goldman Sachs and continues his favoritism in JPMC now. Culture destroyer, but people still hire him at executive roles because he knows how to speak and serve people up the ladder. He did not turn up to the interview, when I called the HR they said, Soumik had declined but we forgot to inform you sorry. The interview supposed to be the final round was scheduled 1 week in advance. No regrets as I avoided a poor leader. Good lesson, of who I would not want to be as I grow in my own pace, and yes I will reach that place one day."
+    ]
   },
   {
     "company": "Optum",
