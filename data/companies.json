@@ -1,5 +1,72 @@
 [
   {
+    "company": "Touchcast",
+    "slug": "touchcast",
+    "aliases": [
+      "touchcast",
+      "touchcast.com",
+      "touchcastcom"
+    ],
+    "website_url": "https://touchcast.com/",
+    "reports_count": 2,
+    "effective_reports": 2,
+    "moderated_reports": 2,
+    "under_review_reports": 0,
+    "ghost_score": 736,
+    "ghost_score_band": "High",
+    "credibility_boost": 19,
+    "visual_ghost_score": 755,
+    "avg_report_score": 972,
+    "scores": [
+      972,
+      972
+    ],
+    "avg_severity": 267,
+    "severity_band": "High",
+    "top_recruiters": [
+      "Parv****",
+      "Parv*********************************"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Indeed"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "More than 10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "Bullshit happened....so this HR girl calls me, sets up an interview, and says before the main round I need to do a design test basically “create the entire design system in 24 hours!!!”\n\nYeah, I actually fell for it. Pulled an all-nighter, finished it, and sent it to her. Then she asks for a “preview” and “clickable links,” and I explained it’s all right there sample mockups included.\n\nAfter that? Nothing. No reply. It’s been two weeks.\n\nLike seriously why ask for a full design system and prototype in a day if you don’t even know how to review it? And if someone puts in that much effort overnight, the least you can do is acknowledge it or update their status. The way some people treat candidates is just unfair and demotivating.",
+      "HR Called -> gave design assignment before Interview -> 8-12hrs of effort -> sent on time -> RADIO SILENCE, NO ACKNOWLEDGEMENT, NO FEEDBACK, NOTHING!!!!"
+    ]
+  },
+  {
     "company": "Zalando",
     "slug": "zalando",
     "aliases": [
