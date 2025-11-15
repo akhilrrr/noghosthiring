@@ -1,72 +1,5 @@
 [
   {
-    "company": "Touchcast",
-    "slug": "touchcast",
-    "aliases": [
-      "touchcast",
-      "touchcast.com",
-      "touchcastcom"
-    ],
-    "website_url": "https://touchcast.com/",
-    "reports_count": 2,
-    "effective_reports": 2,
-    "moderated_reports": 2,
-    "under_review_reports": 0,
-    "ghost_score": 736,
-    "ghost_score_band": "High",
-    "credibility_boost": 19,
-    "visual_ghost_score": 755,
-    "avg_report_score": 972,
-    "scores": [
-      972,
-      972
-    ],
-    "avg_severity": 267,
-    "severity_band": "High",
-    "top_recruiters": [
-      "Parv****",
-      "Parv*********************************"
-    ],
-    "top_jobs": [
-      "UX/UI Designer"
-    ],
-    "top_locations": [
-      "India"
-    ],
-    "assignment_types": [
-      "Design Task"
-    ],
-    "top_experience_levels": [
-      "Senior-Level (5-10 years)"
-    ],
-    "application_methods": [
-      "Indeed"
-    ],
-    "employment_types": [
-      "Full-Time"
-    ],
-    "ai_screening_pct": 0,
-    "additional_steps_pct": 100,
-    "ghosting_stages": [
-      "Ghosted After Completing an Assignment"
-    ],
-    "assignment_time": [
-      "More than 10 Hours"
-    ],
-    "assignment_paid_pct": 0,
-    "feedback_pct": {
-      "Detailed": 0,
-      "Vague": 0,
-      "None": 100
-    },
-    "avg_realization_time": "1-2 Weeks",
-    "official_rejection_pct": 0,
-    "comments": [
-      "Bullshit happened....so this HR girl calls me, sets up an interview, and says before the main round I need to do a design test basically “create the entire design system in 24 hours!!!”\n\nYeah, I actually fell for it. Pulled an all-nighter, finished it, and sent it to her. Then she asks for a “preview” and “clickable links,” and I explained it’s all right there sample mockups included.\n\nAfter that? Nothing. No reply. It’s been two weeks.\n\nLike seriously why ask for a full design system and prototype in a day if you don’t even know how to review it? And if someone puts in that much effort overnight, the least you can do is acknowledge it or update their status. The way some people treat candidates is just unfair and demotivating.",
-      "HR Called -> gave design assignment before Interview -> 8-12hrs of effort -> sent on time -> RADIO SILENCE, NO ACKNOWLEDGEMENT, NO FEEDBACK, NOTHING!!!!"
-    ]
-  },
-  {
     "company": "Zalando",
     "slug": "zalando",
     "aliases": [
@@ -210,6 +143,70 @@
     "comments": [
       "Got ghosted after 7 rounds lol. When the 7th round was not a behavioural round I kind of know they are not serious in hiring. Apparently Goldman is well known in the industry to drag out interviews and then ghost, and maybe suddenly offer like after 4 months. I said I would apply again because it is interview practice in this market. But if you have a good employer maybe not worth the effort",
       "Applied twice over my career. Once through referral and once reached out by their recruiter. Both times ghosted. First time ghosted immediately, second time after first interview. No response after trying to follow up."
+    ]
+  },
+  {
+    "company": "Touchcast",
+    "slug": "touchcast",
+    "aliases": [
+      "touchcast",
+      "touchcast.com",
+      "touchcastcom"
+    ],
+    "website_url": "https://touchcast.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 657,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 657,
+    "avg_report_score": 972,
+    "scores": [
+      972
+    ],
+    "avg_severity": 267,
+    "severity_band": "High",
+    "top_recruiters": [
+      "Parv****"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Indeed"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "More than 10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "Bullshit happened....so this HR girl calls me, sets up an interview, and says before the main round I need to do a design test basically “create the entire design system in 24 hours!!!”\n\nYeah, I actually fell for it. Pulled an all-nighter, finished it, and sent it to her. Then she asks for a “preview” and “clickable links,” and I explained it’s all right there sample mockups included.\n\nAfter that? Nothing. No reply. It’s been two weeks.\n\nLike seriously why ask for a full design system and prototype in a day if you don’t even know how to review it? And if someone puts in that much effort overnight, the least you can do is acknowledge it or update their status. The way some people treat candidates is just unfair and demotivating."
     ]
   },
   {
@@ -5223,6 +5220,64 @@
     "comments": [
       "5 hours of interviews over a month period, then completely ghosted."
     ]
+  },
+  {
+    "company": "Fideres",
+    "slug": "fideres",
+    "aliases": [
+      "fideres",
+      "fideres.com",
+      "fiderescom"
+    ],
+    "website_url": "https://fideres.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 555,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 555,
+    "avg_report_score": 666,
+    "scores": [
+      666
+    ],
+    "avg_severity": 92,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Cloud & Infrastructure Manager"
+    ],
+    "top_locations": [
+      "United Kingdom"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
   },
   {
     "company": "Build A Bear",
