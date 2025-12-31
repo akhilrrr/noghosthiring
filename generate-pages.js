@@ -109,7 +109,7 @@ ${headerMarkup}
       <div class="kpi">
         <div class="kpi-label">Ghost Score</div>
         <div class="kpi-value ${scoreCSS}">${esc(c.ghost_score ?? '—')}</div>
-        ${sub('Overall ghosting risk, higher is worse. Low: 0–449 · Medium: 450–649 · High: 650–749 · Severe: 750+')}
+        ${sub('Overall ghosting risk. Low 0–449 / Med 450–649 / High 650–749 / Severe 750+')}
       </div>
       <div class="kpi">
         <div class="kpi-label">Severity Band</div>
