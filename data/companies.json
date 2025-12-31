@@ -458,6 +458,135 @@
     ]
   },
   {
+    "company": "Tahaluf Al Emarat Technical Solutions",
+    "slug": "tahalufalemarattechnicalsolutions",
+    "aliases": [
+      "tahaluf al emarat technical solutions",
+      "tahalufalemarattechnicalsolutions",
+      "tahalufalemarattechnical",
+      "tahaluf.ai",
+      "tahalufai",
+      "tahaluf"
+    ],
+    "website_url": "https://tahaluf.ai/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 642,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 642,
+    "avg_report_score": 925,
+    "scores": [
+      925
+    ],
+    "avg_severity": 220,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Afsa****"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "UAE"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Recruitment Agency"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "More than 1 Month",
+    "official_rejection_pct": 0,
+    "comments": [
+      "they ran a full panel interview with me, gave a proper design task, and I actually completed it. After that, total silence for a month and a half. When I followed up, they just said they’re still “deciding.” At this point it feels like they’re collecting free design ideas from candidates rather than actually hiring."
+    ]
+  },
+  {
+    "company": "Skylarklabs",
+    "slug": "skylarklabs",
+    "aliases": [
+      "skylarklabs",
+      "skylarklabs.ai",
+      "skylarklabsai"
+    ],
+    "website_url": "https://skylarklabs.ai/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 642,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 642,
+    "avg_report_score": 925,
+    "scores": [
+      925
+    ],
+    "avg_severity": 220,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Sash******"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Job Portals"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Philadelphia Phillies",
     "slug": "philadelphiaphillies",
     "aliases": [
@@ -522,6 +651,69 @@
     ]
   },
   {
+    "company": "One Impression",
+    "slug": "oneimpression",
+    "aliases": [
+      "one impression",
+      "oneimpression",
+      "oneimpression.io",
+      "oneimpressionio"
+    ],
+    "website_url": "https://www.oneimpression.io/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 641,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 641,
+    "avg_report_score": 924,
+    "scores": [
+      924
+    ],
+    "avg_severity": 219,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Moni********"
+    ],
+    "top_jobs": [
+      "Product Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Realdrseattle",
     "slug": "realdrseattle",
     "aliases": [
@@ -584,6 +776,67 @@
     "comments": [
       "The recruiter reached out through Indeed’s chat, said he’d gone through my profile, complimented my work, and made it sound like he was the decision-maker. He even said if I did well on the assignment, they’d hire me within a couple of weeks.\n\nSo I put in the time. I designed a full homepage for their cosmetic website, polished and professional, and sent it over. Then… nothing. No acknowledgment, no “got it,” not even a single follow-up message.\n\nClassic ghosting. Hours of effort wasted. Honestly, it feels like a scam disguised as “recruitment.” Devastating."
     ]
+  },
+  {
+    "company": "Planetsurf Creations",
+    "slug": "planetsurfcreations",
+    "aliases": [
+      "planetsurf creations",
+      "planetsurfcreations",
+      "planetsurfcreations.com",
+      "planetsurfcreationscom"
+    ],
+    "website_url": "https://www.planetsurfcreations.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 639,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 639,
+    "avg_report_score": 916,
+    "scores": [
+      916
+    ],
+    "avg_severity": 211,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Indeed"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
   },
   {
     "company": "Kantar",
@@ -897,6 +1150,70 @@
     "comments": []
   },
   {
+    "company": "Mithya Labs",
+    "slug": "mithyalabs",
+    "aliases": [
+      "mithya labs",
+      "mithyalabs",
+      "mithya",
+      "mithyalabs.com",
+      "mithyalabscom"
+    ],
+    "website_url": "https://www.mithyalabs.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 635,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 635,
+    "avg_report_score": 904,
+    "scores": [
+      904
+    ],
+    "avg_severity": 199,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Kshi*********"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Indeed"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Veye",
     "slug": "veye",
     "aliases": [
@@ -1020,16 +1337,12 @@
     "comments": []
   },
   {
-    "company": "OPTISIGNS TECHNOLOGY CO., LTD",
-    "slug": "optisignstechnologycoltd",
+    "company": "OptiSigns",
+    "slug": "optisigns",
     "aliases": [
-      "optisigns technology co., ltd",
-      "optisignstechnologycoltd",
       "optisigns",
       "optisigns.com",
-      "optisignscom",
-      "optisigns technology co, ltd",
-      "optisignstechnologyco,ltd"
+      "optisignscom"
     ],
     "website_url": "https://www.optisigns.com/",
     "reports_count": 1,
@@ -1277,6 +1590,70 @@
     "comments": []
   },
   {
+    "company": "Gameberry Labs",
+    "slug": "gameberrylabs",
+    "aliases": [
+      "gameberry labs",
+      "gameberrylabs",
+      "gameberry",
+      "gameberrylabs.com",
+      "gameberrylabscom"
+    ],
+    "website_url": "https://gameberrylabs.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 631,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 631,
+    "avg_report_score": 894,
+    "scores": [
+      894
+    ],
+    "avg_severity": 189,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Shai*********"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Job Portals"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "More than 10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "IBA",
     "slug": "iba",
     "aliases": [
@@ -1460,6 +1837,70 @@
     "comments": []
   },
   {
+    "company": "Exdera",
+    "slug": "exdera",
+    "aliases": [
+      "exdera",
+      "exdera.com",
+      "exderacom"
+    ],
+    "website_url": "https://www.exdera.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 628,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 628,
+    "avg_report_score": 885,
+    "scores": [
+      885
+    ],
+    "avg_severity": 207,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Mani***"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Indeed"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 100,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "More than 1 Month",
+    "official_rejection_pct": 0,
+    "comments": [
+      "they made me do a full design assignment with three variations, ran me through 3 rounds of interviews, everything sounded promising… and then nothing for a mont...no updates, no closure, completely silent"
+    ]
+  },
+  {
     "company": "CibusCell",
     "slug": "cibuscell",
     "aliases": [
@@ -1518,6 +1959,70 @@
     "avg_realization_time": "1-2 Weeks",
     "official_rejection_pct": 0,
     "comments": []
+  },
+  {
+    "company": "Skudot",
+    "slug": "skudot",
+    "aliases": [
+      "skudot",
+      "skudot.in",
+      "skudotin"
+    ],
+    "website_url": "https://skudot.in/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 626,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 626,
+    "avg_report_score": 877,
+    "scores": [
+      877
+    ],
+    "avg_severity": 201,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Umes**"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "Remote"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Contract"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Verbal Offer"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 100,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "The founder asked me to redesign their website as an assignment. I took a 30% advance, which he paid. The design was approved, and he then asked me to convert it to HTML. I delivered the files, and after that he went completely silent without paying the remaining amount."
+    ]
   },
   {
     "company": "CodeGama",
@@ -2080,6 +2585,70 @@
     "comments": []
   },
   {
+    "company": "Silvermine Software India Private Limited",
+    "slug": "silverminesoftwareindiaprivatelimited",
+    "aliases": [
+      "silvermine software india private limited",
+      "silverminesoftwareindiaprivatelimited",
+      "silverminegroup.com",
+      "silverminegroupcom",
+      "silverminegroup"
+    ],
+    "website_url": "https://www.silverminegroup.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 621,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 621,
+    "avg_report_score": 863,
+    "scores": [
+      863
+    ],
+    "avg_severity": 169,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Shub*************"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 100,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
     "company": "Lavish Alice",
     "slug": "lavishalice",
     "aliases": [
@@ -2261,6 +2830,70 @@
       "None": 100
     },
     "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": []
+  },
+  {
+    "company": "FatakPay Digital",
+    "slug": "fatakpaydigital",
+    "aliases": [
+      "fatakpay digital",
+      "fatakpaydigital",
+      "web.fatakpay.com",
+      "webfatakpaycom",
+      "web"
+    ],
+    "website_url": "https://web.fatakpay.com/authentication/login?utm_source=131_FD2ES&utm_medium=GooglesearchKYCOffer&gad_source=1&gad_campaignid=20936194474&gbraid=0AAAAAqjQlyuBpsHilWarP6PgikhF_fZlv&gclid=CjwKCAiAjc7KBhBvEiwAE2BDOcDWmaELp8NVowPPk4pVS4BQcG54s8qeUi1yPkXNWPA3Jcad8bkRbxoC4YkQAvD_BwE",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 618,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 618,
+    "avg_report_score": 853,
+    "scores": [
+      853
+    ],
+    "avg_severity": 163,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Dish******"
+    ],
+    "top_jobs": [
+      "Frontend/Backend/Full Stack Developer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Coding Test"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "More than 1 Month",
     "official_rejection_pct": 0,
     "comments": []
   },
@@ -3383,6 +4016,72 @@
     "comments": []
   },
   {
+    "company": "Zennode Technologies",
+    "slug": "zennodetechnologies",
+    "aliases": [
+      "zennode technologies",
+      "zennodetechnologies",
+      "zennode",
+      "zennode.com",
+      "zennodecom"
+    ],
+    "website_url": "https://zennode.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 599,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 599,
+    "avg_report_score": 796,
+    "scores": [
+      796
+    ],
+    "avg_severity": 194,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Tanv**"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "Job Portals"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 100,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 100,
+    "comments": [
+      "The rookie HR guy's message was position filled as there was a reference they got after 9+hrs of assignment and 3 weeks of wait"
+    ]
+  },
+  {
     "company": "Brillio",
     "slug": "brillio",
     "aliases": [
@@ -3996,6 +4695,68 @@
     "comments": [
       "Ghosted after OA even though all test cases passed."
     ]
+  },
+  {
+    "company": "NetObjex",
+    "slug": "netobjex",
+    "aliases": [
+      "netobjex",
+      "netobjex.com",
+      "netobjexcom"
+    ],
+    "website_url": "https://www.netobjex.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 586,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 586,
+    "avg_report_score": 758,
+    "scores": [
+      758
+    ],
+    "avg_severity": 164,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Remy***"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Design Task"
+    ],
+    "top_experience_levels": [
+      "Mid-Level (2-5 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Completing an Assignment"
+    ],
+    "assignment_time": [
+      "5-10 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 100,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 100,
+    "comments": []
   },
   {
     "company": "Vodafone",
@@ -5762,6 +6523,69 @@
     "comments": []
   },
   {
+    "company": "Prisio",
+    "slug": "prisio",
+    "aliases": [
+      "prisio",
+      "prisiotechnologies.com",
+      "prisiotechnologiescom",
+      "prisiotechnologies"
+    ],
+    "website_url": "https://prisiotechnologies.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 551,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 551,
+    "avg_report_score": 654,
+    "scores": [
+      654
+    ],
+    "avg_severity": 82,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Kami**"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Indeed"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "More than 1 Month",
+    "official_rejection_pct": 0,
+    "comments": [
+      "This is a recruiting agency, and they set up the interview but took zero responsibility after that. If you ask them about the hiring status, they just say to check with the client directly. But a week later, they expect us to update them. It’s basically a one-way street where we do all the follow-ups and they stay hands-off."
+    ]
+  },
+  {
     "company": "Five9",
     "slug": "five9",
     "aliases": [
@@ -6006,6 +6830,73 @@
     "avg_realization_time": "2-4 Weeks",
     "official_rejection_pct": 0,
     "comments": []
+  },
+  {
+    "company": "Cloud Control Solutions Inc. (ecloudcontrol)",
+    "slug": "cloudcontrolsolutionsincecloudcontrol",
+    "aliases": [
+      "cloud control solutions inc. (ecloudcontrol)",
+      "cloudcontrolsolutionsincecloudcontrol",
+      "cloudcontrolecloudcontrol",
+      "ecloudcontrol.com",
+      "ecloudcontrolcom",
+      "ecloudcontrol",
+      "cloud control solutions inc (ecloudcontrol)",
+      "cloudcontrolsolutionsinc(ecloudcontrol)"
+    ],
+    "website_url": "https://www.ecloudcontrol.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 549,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 549,
+    "avg_report_score": 647,
+    "scores": [
+      647
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Athi********"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Job Portals"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "This was honestly the most unfair interview I’ve ever had. The HR team was nice enough they were handling the process for a US-based client  but the “technical” round felt more like a viva exam than a real conversation.\n\nThen came the final interview with the US client. Ironically, the interviewer (Indian-origin, based in the US) didn’t even look at the camera, said he hadn’t seen my profile, and spent the whole call acting dismissive. Every time I tried to explain something or with an example, he’d just shake his head like he’d already decided I was wrong. Zero smile, zero empathy, zero interest. And this was supposed to be for a UX/UI designer role, yet 90% of the questions were about front-end development. Like if that’s what you want, just say so.\n\nHonestly, if you’re too busy or too uninterested to hold a fair interview, just tell the candidate upfront. Don’t stretch a one-hour session only to treat it like an obligation."
+    ]
   },
   {
     "company": "Siemens Singapore",
@@ -6366,6 +7257,69 @@
     "avg_realization_time": "1-2 Weeks",
     "official_rejection_pct": 0,
     "comments": []
+  },
+  {
+    "company": "WAC (Webandcrafts)",
+    "slug": "wacwebandcrafts",
+    "aliases": [
+      "wac (webandcrafts)",
+      "wacwebandcrafts",
+      "webandcrafts.com",
+      "webandcraftscom",
+      "webandcrafts",
+      "wac(webandcrafts)"
+    ],
+    "website_url": "https://webandcrafts.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 545,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 545,
+    "avg_report_score": 635,
+    "scores": [
+      635
+    ],
+    "avg_severity": 79,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Graphic/Brand/Motion Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "LinkedIn"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Ghosting (Sharing Feedback)"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "These ppl are lowkey serial ghosters. You’ll see openings pop up or some HR person will ping you on LinkedIn, but the moment you actually put in effort send your resume, reply thoughtfully, or have a proper conversation the trail goes silent.\nPretty sure a few versions of my resume have been ageing peacefully in their inboxes since 2020."
+    ]
   },
   {
     "company": "Nerdy",

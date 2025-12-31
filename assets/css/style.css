@@ -266,3 +266,27 @@ code {
   margin-right: 6px;
   font-weight: bold;
 }
+
+.legend-inline {
+  margin-left: 6px;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.legend-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 3px;
+  position: relative;
+  top: 1px;
+}
+
+.legend-dot.high {
+  background: #e51c00;
+}
+
+.legend-dot.moderate {
+  background: #efad00;
+}
