@@ -6403,6 +6403,62 @@
     "comments": []
   },
   {
+    "company": "GitLab",
+    "slug": "gitlab",
+    "aliases": [
+      "gitlab"
+    ],
+    "website_url": "gitlab.com",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 552,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 552,
+    "avg_report_score": 656,
+    "scores": [
+      656
+    ],
+    "avg_severity": 149,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Product Designer"
+    ],
+    "top_locations": [
+      "Remote"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Job Referral"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 100,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Response After Application"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "1-2 Weeks",
+    "official_rejection_pct": 100,
+    "comments": []
+  },
+  {
     "company": "Delta Dental",
     "slug": "deltadental",
     "aliases": [
