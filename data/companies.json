@@ -1777,6 +1777,70 @@
     ]
   },
   {
+    "company": "TinyPal",
+    "slug": "tinypal",
+    "aliases": [
+      "tinypal",
+      "tinypal.com",
+      "tinypalcom"
+    ],
+    "website_url": "https://tinypal.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 630,
+    "ghost_score_band": "High",
+    "credibility_boost": 0,
+    "visual_ghost_score": 630,
+    "avg_report_score": 890,
+    "scores": [
+      890
+    ],
+    "avg_severity": 209,
+    "severity_band": "Medium",
+    "top_recruiters": [
+      "Cher****"
+    ],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "Case Study"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Job Portals"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "No Response After Initial Inquiry (via call, email, or message)"
+    ],
+    "assignment_time": [
+      "2-5 Hours"
+    ],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 100
+    },
+    "avg_realization_time": "Less than 1 Week",
+    "official_rejection_pct": 0,
+    "comments": [
+      "Applied through Naukri, got a case study before even speaking to a real person, downloaded the app, spent time doing strategic analysis, sent everything properly - and not even a basic acknowledgement or response after submission. Honestly one of the most immature hiring experiences I’ve seen. Candidates are investing real time and effort here. At some point it starts feeling less like hiring and more like free user research."
+    ]
+  },
+  {
     "company": "Corelogic",
     "slug": "corelogic",
     "aliases": [
@@ -5011,6 +5075,68 @@
     "comments": []
   },
   {
+    "company": "Staples Canada",
+    "slug": "staplescanada",
+    "aliases": [
+      "staples canada",
+      "staplescanada",
+      "staples.ca",
+      "staplesca",
+      "staples"
+    ],
+    "website_url": "https://www.staples.ca/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 580,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 580,
+    "avg_report_score": 741,
+    "scores": [
+      741
+    ],
+    "avg_severity": 142,
+    "severity_band": "Medium",
+    "top_recruiters": [],
+    "top_jobs": [
+      "Product Designer"
+    ],
+    "top_locations": [
+      "Canada"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 100,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Response After Application"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "2-4 Weeks",
+    "official_rejection_pct": 0,
+    "comments": [
+      "They could've at least sent out an automated email. No notification whatsoever - I had to sign in to the application portal to find out that I was declined."
+    ]
+  },
+  {
     "company": "Shopify",
     "slug": "shopify",
     "aliases": [
@@ -6459,6 +6585,71 @@
     "comments": []
   },
   {
+    "company": "CSC Generation (CSC / Generation)",
+    "slug": "cscgenerationcscgeneration",
+    "aliases": [
+      "csc generation (csc / generation)",
+      "cscgenerationcscgeneration",
+      "cscgeneration.com",
+      "cscgenerationcom",
+      "cscgeneration",
+      "cscgeneration(csc/generation)"
+    ],
+    "website_url": "https://www.cscgeneration.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 552,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 552,
+    "avg_report_score": 655,
+    "scores": [
+      655
+    ],
+    "avg_severity": 83,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "abla**@cscshared.com"
+    ],
+    "top_jobs": [
+      "Product Designer"
+    ],
+    "top_locations": [
+      "Remote"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "No Response After Initial Inquiry (via call, email, or message)"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "More than 1 Month",
+    "official_rejection_pct": 0,
+    "comments": [
+      "They had a ridiculous number of interviews - 8 steps, which included an assignment."
+    ]
+  },
+  {
     "company": "Delta Dental",
     "slug": "deltadental",
     "aliases": [
@@ -6953,6 +7144,64 @@
     "comments": [
       "This was honestly the most unfair interview I’ve ever had. The HR team was nice enough they were handling the process for a US-based client  but the “technical” round felt more like a viva exam than a real conversation.\n\nThen came the final interview with the US client. Ironically, the interviewer (Indian-origin, based in the US) didn’t even look at the camera, said he hadn’t seen my profile, and spent the whole call acting dismissive. Every time I tried to explain something or with an example, he’d just shake his head like he’d already decided I was wrong. Zero smile, zero empathy, zero interest. And this was supposed to be for a UX/UI designer role, yet 90% of the questions were about front-end development. Like if that’s what you want, just say so.\n\nHonestly, if you’re too busy or too uninterested to hold a fair interview, just tell the candidate upfront. Don’t stretch a one-hour session only to treat it like an obligation."
     ]
+  },
+  {
+    "company": "OnePlan",
+    "slug": "oneplan",
+    "aliases": [
+      "oneplan",
+      "oneplan.ai",
+      "oneplanai"
+    ],
+    "website_url": "https://oneplan.ai/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 549,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 549,
+    "avg_report_score": 648,
+    "scores": [
+      648
+    ],
+    "avg_severity": 82,
+    "severity_band": "Low",
+    "top_recruiters": [],
+    "top_jobs": [
+      "UX/UI Designer"
+    ],
+    "top_locations": [
+      "Canada"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Company Website"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 100,
+    "ghosting_stages": [
+      "No Response After Application"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "More than 1 Month",
+    "official_rejection_pct": 0,
+    "comments": []
   },
   {
     "company": "Siemens Singapore",
@@ -9299,6 +9548,71 @@
     "official_rejection_pct": 100,
     "comments": [
       "Interviewer verbally stated that she would email me, which made me even more upset since this promise was not honoured and they just ghosted me. This is totally unprofessional."
+    ]
+  },
+  {
+    "company": "IRIS RegTech Solutions Limited",
+    "slug": "irisregtechsolutionslimited",
+    "aliases": [
+      "iris regtech solutions limited",
+      "irisregtechsolutionslimited",
+      "irisregtechlimited",
+      "irisregtech.com",
+      "irisregtechcom",
+      "irisregtech"
+    ],
+    "website_url": "https://irisregtech.com/",
+    "reports_count": 1,
+    "effective_reports": 1,
+    "moderated_reports": 1,
+    "under_review_reports": 0,
+    "ghost_score": 530,
+    "ghost_score_band": "Moderate",
+    "credibility_boost": 0,
+    "visual_ghost_score": 530,
+    "avg_report_score": 591,
+    "scores": [
+      591
+    ],
+    "avg_severity": 85,
+    "severity_band": "Low",
+    "top_recruiters": [
+      "Suni********"
+    ],
+    "top_jobs": [
+      "Product Designer"
+    ],
+    "top_locations": [
+      "India"
+    ],
+    "assignment_types": [
+      "No Assignments Required"
+    ],
+    "top_experience_levels": [
+      "Senior-Level (5-10 years)"
+    ],
+    "application_methods": [
+      "Job Portals"
+    ],
+    "employment_types": [
+      "Full-Time"
+    ],
+    "ai_screening_pct": 0,
+    "additional_steps_pct": 0,
+    "ghosting_stages": [
+      "Ghosted After Multiple Interviews"
+    ],
+    "assignment_time": [],
+    "assignment_paid_pct": 0,
+    "feedback_pct": {
+      "Detailed": 0,
+      "Vague": 0,
+      "None": 0
+    },
+    "avg_realization_time": "Less than 1 Week",
+    "official_rejection_pct": 100,
+    "comments": [
+      "process was actually and quick, no take-home stuff which I respected...met a couple PMs and the CTO, then out of nowhere got told the role’s “on hold” with no real explanation...was pretty hopeful about it so yeah… that part stung a bit"
     ]
   },
   {
